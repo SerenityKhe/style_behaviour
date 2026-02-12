@@ -1,0 +1,20 @@
+# Requirements for Main_4.3.py - Thesis Section 4.3
+# Combined Analysis: Figures 18-24
+
+# Core data processing
+numpy>=1.24.0,<2.0.0
+pandas>=2.0.0,<3.0.0
+
+# Visualization libraries
+matplotlib>=3.7.0,<4.0.0
+seaborn>=0.12.0,<1.0.0
+plotly>=5.14.0,<6.0.0
+
+# Web framework
+streamlit>=1.31.0,<2.0.0
+
+# Excel file support
+openpyxl>=3.1.0,<4.0.0
+
+# Optional but recommended for better performance
+xlrd>=2.0.1,<3.0.0
