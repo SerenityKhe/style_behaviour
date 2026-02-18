@@ -57,11 +57,12 @@ def add_regime_background(fig, x_min, x_max):
 # CONSISTENT FUND COLORS
 # ============================================================
 FUND_COLOR_MAP = {
-    "ALCHWTU LX": "#1f77b4",
-    "GSCEQBA": "#ff7f0e",
-    "MGGIX US": "#d62728",
-    "EMF US": "#9467bd",
+    "ALCHWTU LX": "#8c5a0a",
+    "GSCEQBA": "#ff2aa1",
+    "MGGIX US": "#39ff14",
+    "EMF US": "#ffd400",
 }
+
 
 # ============================================================
 # HELPERS - BETA COMPUTATION
